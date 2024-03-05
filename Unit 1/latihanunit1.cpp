@@ -14,6 +14,8 @@ int main(){
     h=c*d;
     i=e/f;
     printf("%d",g);
+    printf("%d",h);
+    printf("%d",i);
     return 0;
 }
 
